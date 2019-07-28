@@ -1,7 +1,8 @@
-var friendsArr = [
+var friendsArr = 
+[
     {
         "name": "Theodore",
-        "photo": "https://en.wikipedia.org/wiki/Theodore_Roosevelt#/media/File:President_Roosevelt_-_Pach_Bros.jpg",
+        "photo": "https://www.onthisday.com/images/people/theodore-roosevelt-medium.jpg",
         "scores": [
             5,
             4,
@@ -16,3 +17,5 @@ var friendsArr = [
         ]
     }
 ]
+
+module.exports = friendsArr;
